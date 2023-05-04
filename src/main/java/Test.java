@@ -4,10 +4,9 @@ public class Test {
         System.out.println("2");
         System.out.println("Hello Word 1");
         System.out.println("Hello Word 1");
-        System.out.println("Hello Word 2");
-        System.out.println("Hello Word 2");
-        System.out.println("Hello Word 2");
-        System.out.println("Hello Word 2");
-
+        System.out.println("Hello Word 1");
+        System.out.println("Hello Word 1");
+        System.out.println("Hello Word 1");
+        System.out.println("Hello Word 1");
     }
 }
