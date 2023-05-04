@@ -8,5 +8,6 @@ public class Test {
         System.out.println("Hello Word 2");
         System.out.println("Hello Word 2");
         System.out.println("dev");
+        System.out.println("dev");
     }
 }
